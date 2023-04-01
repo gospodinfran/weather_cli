@@ -7,4 +7,4 @@ Start the CLI via
 cargo run
 ```
 
-The CLI provides instructions on usage.
+The CLI provides usage instructions.
