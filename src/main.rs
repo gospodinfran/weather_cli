@@ -45,7 +45,7 @@ impl From<SerdeJsonError> for CustomError {
 
 #[tokio::main]
 async fn main() -> Result<(), CustomError> {
-    let api_key = "e428bfccc2fe4bffa2425905233103";
+    let api_key = "YOUR_API_KEY";
 
     let mut location = String::new();
 
